@@ -9,6 +9,7 @@ An intuitive SwiftUI-based application to explore your personality traits using 
 - **Modular Design**: Scalable architecture with clean separation of concerns.
 
 ---
+
 <details>
 <summary><strong>Screenshots</strong></summary>
   
@@ -17,6 +18,7 @@ An intuitive SwiftUI-based application to explore your personality traits using 
 ![Results Screen](/ScreenShots/1st.png)
 
 </details>
+
 ---
 
 ## Technologies Used
