@@ -75,7 +75,7 @@ struct ResultsView: View {
                         .foregroundColor(.secondary)
                         .padding(.leading, 24)
                 }
-                .frame(maxWidth: .infinity, alignment: .leading)
+                .frame(alignment: .leading)
                 .padding(.vertical, 4)
             }
         }
