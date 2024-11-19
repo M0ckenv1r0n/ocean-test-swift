@@ -10,7 +10,7 @@ An intuitive SwiftUI-based application to explore your personality traits using 
 
 ## Screenshots
 ### Introduction Screen
-![Introduction Screen](./Assets.xcassets/IntroPeople.imageset/IntroPeople.png)
+![Introduction Screen](.ScreenShots/3rd.png)
 
 ## Technologies Used
 - Swift
