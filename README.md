@@ -8,9 +8,14 @@ An intuitive SwiftUI-based application to explore your personality traits using 
 - **Interactive UI**: Built with SwiftUI for a modern and seamless user experience.
 - **Modular Design**: Scalable architecture with clean separation of concerns.
 
-## Screenshots
-### Introduction Screen
+
+<details>
+<summary>## Screenshots</summary>
 ![Introduction Screen](/ScreenShots/3rd.png)
+![Question Screen](/ScreenShots/2nd.png)
+![Results Screen](/ScreenShots/1st.png)
+</details>
+
 
 ## Technologies Used
 - Swift
